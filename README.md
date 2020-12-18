@@ -1,6 +1,4 @@
 ﻿
-    
-                  <article class="markdown-body entry-content container-lg" itemprop="text">
 <hr>
 <h1>مجید آقا امینی</h1>
 <ul>
