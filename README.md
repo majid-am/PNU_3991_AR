@@ -59,8 +59,8 @@
       <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/01_%D8%B2%D9%87%D8%B1%D8%A7%20%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85%D9%8A%20%D9%83%D9%86%D8%AF%D8%AC%D9%8A">_ASE-01_زهرا ابراهيمي كندجي</a></li>
       <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/06_%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%20%D8%A8%D9%87%D8%A7%D8%AF%D8%B1">_ASE-06_سالار بهادر</a></li>
       <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/10_شاهين جلالي قره موسي">_ASE-10_شاهين جلالي قره موسي</a></li>
-      <li><a href="https://github.com/AliRazavi-https://github.com/AliRazavi-edu/PNU_3991/blob/master/_MSc/AdvancedSoftwareEngineering/1115026_01/03_%D9%85%D8%AC%D9%8A%D8%AF%20%D8%A7%D9%82%D8%A7%D8%A7%D9%85%D9%8A%D9%86%D9%8A/">مجید آقا امینی -</a></li>
-    </ol>
+      <li><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/03_مجيد اقااميني">_ASE-03_مجید آقا امینی</a>
+    </li></ol>
   </li>
 </ol>
 <p><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering#TOC"><img alt="leftwards_arrow_with_hook" src="https://github.githubassets.com/images/icons/emoji/unicode/21a9.png" width="20" height="20"></a></p>
