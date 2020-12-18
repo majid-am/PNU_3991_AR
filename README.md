@@ -16,7 +16,7 @@
       <li><a href="https://github.com/majid-am/">ساخت اکانت گیت هاب</a></li>
       <li><a href="https://github.com/majid-am/patchwork" rel="nofollow">آموزش گیت در سایت پچ ورک</a></li>
       <li><a href="https://github.com/majid-am/resume">ارائه رزومه</a></li>
-      <li>ارائه انگیزه نامه</li>
+      <li><a href="https://github.com/majid-am/SOP">ارائه انگیزه نامه</a></li>
       <li><a href="https://github.com/majid-am/PNU_3991_AR">ایجاد ریپازیتوری PNU_3991_AR</a></li>
       <li><a href="https://github.com/majid-am/certificates" rel="nofollow">گذراندن دوره js از سایت سولولرن</a></li>
       <li><a href="https://crowdin.com/profile/majid-am/activity">مشارکت در گروهای درسی</a></li>
