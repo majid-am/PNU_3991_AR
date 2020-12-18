@@ -1,8 +1,4 @@
 
-          <div class="container-xl clearfix new-discussion-timeline px-3 px-md-4 px-lg-5">
-            <div class="repository-content " >
-              <div class="Box mt-3 position-relative
-      ">
                 <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
                   <article class="markdown-body entry-content container-lg" itemprop="text">
 <hr>
@@ -152,21 +148,7 @@
 
   </div>
 
-          
-<div class="footer container-xl width-full p-responsive" role="contentinfo">
-  <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
-    <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-      <li class="mr-3 mr-lg-0">
-        <template id="site-details-dialog"></template>
-      </li>
-    </ul>
-  </div>
-</div>
-<div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
-  <div class="Popover-message Popover-message--bottom-left Popover-message--large Box box-shadow-large" style="width:360px;">
-  </div>
-</div>
-
+   
 
   </body>
 </html>
