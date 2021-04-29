@@ -124,15 +124,15 @@
     <th></th>
     <th></th>
     <th></th>
-     <th><a href="https://github.com/majid-am/PNU_3991_AR/tree/main/AdvanceDataBase">1115024_71_166 پايگاه داده پيشرفته  </a></th>
+     <th></a></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th></th>
      <th></th>
+     <th><a href="https://github.com/majid-am/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies">متدولوژی تولیبد نرم افزار   </th>
      <th>&nbsp;</th>
-     <th>&nbsp;</th>
-    <th><a href="https://github.com/majid-am/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
+    <th><a href="https://github.com/majid-am/PNU_3991_AR/tree/main/AdvancedAlgorithms">الگوریتم پیشرفته </a></th>
     <th>پنج شنبه</th>
   </tr>
 </tbody></table>
